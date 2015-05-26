@@ -26,6 +26,7 @@ Plugin 'digitaltoad/vim-jade'
 
 " Features
 Plugin 'tpope/vim-surround'
+Plugin 'Shougo/vimfiler.vim'
 
 " Vundle end. All plugins must be added
 " before the following line.
