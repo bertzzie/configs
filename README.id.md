@@ -8,7 +8,7 @@ Repository ini mengandung semua file konfigurasi yang saya gunakan, diunggah unt
 
 Semua file konfigurasi diuji di Mac OS X Yoshimite (10.10.3), dengan versi perangkat lunak sebagai berikut:
 
-- VIM  : MacVim 7.3 (installed using homebrew)
+- VIM  : MacVim 7.4 (dipasang menggunakan homebrew)
 - git  : git version 2.3.2 (Apple Git-55)
 - bash : GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin14) 
 

@@ -8,7 +8,7 @@ This repo contains all my configuration files, useful both for learning and shar
 
 All configurations are tested on Mac OS X Yoshimite (10.10.3), with the following software versions:
 
-- VIM  : MacVim 7.3 (installed using homebrew)
+- VIM  : MacVim 7.4 (installed using homebrew)
 - git  : git version 2.3.2 (Apple Git-55)
 - bash : GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin14) 
 
