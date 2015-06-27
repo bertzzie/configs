@@ -13,6 +13,7 @@ Plugin 'endel/vim-github-colorscheme'
 Plugin 'chriskempson/vim-tomorrow-theme'
 Plugin '29decibel/codeschool-vim-theme'
 Plugin 'tomasr/molokai'
+Plugin 'altercation/vim-colors-solarized'
 
 " Languages
 Plugin 'fatih/vim-go'
@@ -28,6 +29,7 @@ Plugin 'digitaltoad/vim-jade'
 Plugin 'tpope/vim-surround'
 Plugin 'Shougo/unite.vim'    "vimfiler depends on this.
 Plugin 'Shougo/vimfiler.vim'
+Plugin 'mattn/emmet-vim'
 
 " Vundle end. All plugins must be added
 " before the following line.
@@ -42,6 +44,7 @@ set shiftwidth=4
 set expandtab
 
 set number    " Show line number
+set guifont=Source\ Code\ Pro:h12
 syntax on     " Syntax highlighting ON
 color Molokai " Color theme: Molokai
 
