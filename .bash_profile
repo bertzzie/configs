@@ -36,5 +36,8 @@ export GRADLE_HOME=$HOME/Projects/bin/gradle-2.7
 export PATH=$PATH:$GRADLE_HOME/bin
 
 # Scala
-export SCALA_HOME=$HOME/Projects/bin/scala-2.11.7
-export PATH=$PATH:$SCALA_HOME/bin
+# export SCALA_HOME=$HOME/Projects/bin/scala-2.11.7
+ #export PATH=$PATH:$SCALA_HOME/bin
+
+# Typesafe Activator
+export PATH=$PATH:$HOME/Projects/bin/typesafe-activator

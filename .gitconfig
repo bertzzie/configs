@@ -3,3 +3,4 @@
 	email = bertzzie@gmail.com
 [core]
 	editor = vim -f
+	excludesfile = /Users/alex/.gitignore
