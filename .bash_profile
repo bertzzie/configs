@@ -41,3 +41,28 @@ export PATH=$PATH:$GRADLE_HOME/bin
 
 # Typesafe Activator
 export PATH=$PATH:$HOME/Projects/bin/typesafe-activator
+
+# The next line updates PATH for the Google Cloud SDK.
+source '/Users/alex/google-cloud-sdk/path.bash.inc'
+
+# The next line enables shell command completion for gcloud.
+source '/Users/alex/google-cloud-sdk/completion.bash.inc'
+
+# PHP Composer
+export COMPOSER_BIN=$HOME/.composer/vendor/bin
+export PATH=$PATH:$COMPOSER_BIN
+
+# Android SDK
+export ANDROID_PLATFORM_TOOLS=$HOME/Library/Android/sdk/platform-tools
+export ANDROID_TOOLS=$HOME/Library/Android/sdk/tools
+export PATH=$PATH:$ANDROID_PLATFORM_TOOLS:$ANDROID_TOOLS
+
+# Homebrew
+export BREW_PATH=/usr/local/sbin
+export PATH=$PATH:$BREW_PATH
+
+export CS=/home/alex/bin
+export PATH=$PATH:$CS
+
+# Homebre analytics opt-out
+export HOMEBREW_NO_ANALYTICS=1
